@@ -13,6 +13,9 @@ const Daiana215 = {
     database: [MongoDB, PostgreSQL],
     backend: [NodeJs, Express, Sequelize, Typegoose, Mongoose],
     frontend: [React, Redux, Hooks, MUI, CSS modules]
+  },
+  contact: {
+    email: 'daiana_agustina@outlook.com'
   }
 }
 ```
