@@ -1,7 +1,8 @@
 
-<h1 align="center">¡Hey 👋! Soy Daiana</h1>
-<h3 align="center">Una desarrolladora apasionada por el Back-End.</h3>
+<h1 align="center">¡Hey 👋! Soy Daiana 👩🏻‍💻</h1>
+<h3 align="center">Soy desarrolladora Full Stack</h3>
 <h3 align="center">Buenos Aires, Argentina🌎</h3><br/><br/>
+<h5 align="center">Te cuento un poco de mi: </h5>
 
 ```js
 const Daiana215 = {
