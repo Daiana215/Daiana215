@@ -1,6 +1,6 @@
 
 <h1 align="center">¡Hey 👋! Soy Daiana</h1>
-<h3 align="center">Una desarrolladora apasionada por el backend.</h3>
+<h3 align="center">Una desarrolladora apasionada por el Back-End.</h3>
 <h3 align="center">Buenos Aires, Argentina🌎</h3><br/><br/>
 
 ```js
@@ -13,7 +13,8 @@ const Daiana215 = {
     frontend: [React, Redux, Hooks, MUI, CSS modules]
   },
   contact: {
-    email: 'daiana_agustina@outlook.com'
+    email: 'daiana_agustina@outlook.com',
+    tel: (+54 9) 15 34799016
   }
 }
 ```
