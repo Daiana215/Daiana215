@@ -37,8 +37,12 @@ const Daiana215 = {
     backEnd: [ "NodeJs", "Express", "Sequelize", "Typegoose", "Mongoose" ],
     frontEnd: [ "React", "Redux", "Hooks", "Material UI", "CSS modules" ],
     inProgress: [ "PHP", "React Native" ]
+  },
+  contact: {
+    email: "daiana_agustina@outlook.com",
+    tel: (+54 9) 15 34799016
   }
-}
+};
 ```
 
 <h3 align="left">Conecta conmigo! :</h3>
