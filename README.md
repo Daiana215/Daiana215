@@ -3,6 +3,9 @@
 <h3 align="center">Soy desarrolladora Full Stack.</h3>
 <h3 align="center">Buenos Aires, Argentina🌎</h3><br/> 
 
+![Daiana Grillia](https://user-images.githubusercontent.com/94879125/170401776-1e82e7b1-bd25-42db-9681-5cdc480d78ab.gif)
+
+
 <h2>Sobre mi</h2>
 <p>
   Soy una persona apasionada por el aprendizaje, sobre todo lo que implica desafíos de lógica. Por eso mismo, decidí integrarme en el mundo del Desarrollo y aunque mi formación es como Full Stack, tengo una preferencia hacia el área de Back-End. Actualmente, continúo instruyéndome con nuevas tecnologías en ambas áreas para poder desarrollar aún más mis habilidades e incrementar mis conocimientos.
@@ -35,10 +38,6 @@ const Daiana215 = {
     frontEnd: [ "React", "Redux", "Hooks", "Material UI", "CSS modules" ],
     inProgress: [ "PHP", "React Native" ]
   },
-  contact: {
-    email: "daiana_agustina@outlook.com",
-    tel: (+54 9) 15 34799016
-  }
 }
 ```
 
