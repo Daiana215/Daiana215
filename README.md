@@ -1,6 +1,5 @@
 
 <h1 align="center">¡Hey 👋! Soy Daiana 👩🏻‍💻</h1>
-<h3 align="center">Soy desarrolladora Full Stack.</h3>
 <h3 align="center">Buenos Aires, Argentina🌎</h3><br/> 
 
 ![Daiana Grillia](https://user-images.githubusercontent.com/94879125/170401776-1e82e7b1-bd25-42db-9681-5cdc480d78ab.gif)
@@ -37,7 +36,7 @@ const Daiana215 = {
     backEnd: [ "NodeJs", "Express", "Sequelize", "Typegoose", "Mongoose" ],
     frontEnd: [ "React", "Redux", "Hooks", "Material UI", "CSS modules" ],
     inProgress: [ "PHP", "React Native" ]
-  },
+  }
 }
 ```
 
