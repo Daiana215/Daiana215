@@ -3,7 +3,7 @@
 <h3 align="center">Buenos Aires, Argentina🌎</h3><br/> 
 
 
-![Daiana Grillia(1)]()
+![Daiana Grillia(1)](https://www.canva.com/design/DAFBwcn8Na8/Yo-C1sOIskK6Gm25wFJCWg/watch?utm_content=DAFBwcn8Na8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 
 <h2>Sobre mi</h2>
