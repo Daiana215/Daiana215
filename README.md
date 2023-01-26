@@ -2,8 +2,7 @@
 <h1 align="center">¡Hey 👋! Soy Daiana 👩🏻‍💻</h1>
 <h3 align="center">Buenos Aires, Argentina🌎</h3><br/> 
 
-
-![Daiana Grillia](https://user-images.githubusercontent.com/94879125/214956850-35af2306-5bca-47d3-92c5-8d406a27c392.gif)
+![Daiana Grillia (1)](https://user-images.githubusercontent.com/94879125/214957275-f4cd4523-e46f-4e61-b8cf-9ccad8f9f66b.gif)
 
 
 <h2>Sobre mi</h2>
