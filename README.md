@@ -3,7 +3,7 @@
 <h3 align="center">Buenos Aires, Argentina🌎</h3><br/> 
 
 
-![Daiana Grillia(1)](https://user-images.githubusercontent.com/94879125/170403535-59a26f8c-8ea3-4bd3-9a34-484becc683b3.gif)
+![Daiana Grillia(1)]()
 
 
 <h2>Sobre mi</h2>
