@@ -32,10 +32,9 @@ const Daiana215 = {
   pronouns: 'she' || 'her',
   code: {
     languages: [ "JavaScript", "TypeScript" ],
-    database: [ "MongoDB", "PostgreSQL" ],
+    database: [ "MongoDB", "PostgreSQL", MySQL ],
     backEnd: [ "NodeJs", "Express", "Sequelize", "Typegoose", "Mongoose" ],
-    frontEnd: [ "React", "Redux", "Hooks", "Material UI", "CSS modules" ],
-    inProgress: [ "Python", "CiberSecurity" ]
+    frontEnd: [ "React", "Redux", "Hooks", "Material UI", "CSS modules", "Toolkit", "Angular", "Vue.js" ]
   },
   contact: {
     email: "daiana_agustina@outlook.com"
