@@ -2,9 +2,6 @@
 <h1 align="center">¡Hey 👋! Soy Daiana 👩🏻‍💻</h1>
 <h3 align="center">Argentina🌎</h3><br/> 
 
-![Daiana Grillia (1)](https://user-images.githubusercontent.com/94879125/214957275-f4cd4523-e46f-4e61-b8cf-9ccad8f9f66b.gif)
-
-
 <h2>Sobre mi</h2>
 <p>
   Soy una persona apasionada por el aprendizaje, sobre todo lo que implica desafíos de lógica. Por eso mismo, decidí integrarme en el mundo del Desarrollo y aunque mi formación es como Full Stack, tengo una preferencia hacia el área de Back-End. Actualmente, continúo instruyéndome con nuevas tecnologías en ambas áreas para poder desarrollar aún más mis habilidades e incrementar mis conocimientos.
